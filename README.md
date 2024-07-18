@@ -1,10 +1,10 @@
-Ponisha_app
-
 A Flutter project that make from Figma Design
+
 =======
+
 # Convert Figma Design to Flutter app
 
-Using GETX for state management
+Using GetX for state management
 
 ### Figma Preview
 ![Figma Design](figma(1).jpg)
