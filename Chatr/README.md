@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 Ponisha_app
 
 A Flutter project that make from Figma Design
@@ -8,8 +7,11 @@ A Flutter project that make from Figma Design
 Using GETX for state management
 
 ### Figma Preview
-![alt text](figma.jpg)
+![Figma Design](figma(1).jpg)
 
 ### Flutter App
-<video controls src="Screen_recording_20240717_220253.mp4" title="Title"></video>
->>>>>>> Stashed changes
+![First](20240718_091739(1).jpg)
+
+![Second](20240718_091455(1).jpg)
+
+![Third](20240718_091604(1).jpg)
