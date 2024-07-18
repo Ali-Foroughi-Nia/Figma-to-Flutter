@@ -1,7 +1,3 @@
-A Flutter project that make from Figma Design
-
-=======
-
 # Convert Figma Design to Flutter app
 
 Using GetX for state management
